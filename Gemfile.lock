@@ -23,13 +23,14 @@ GEM
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   pry
   rspec
 
 RUBY VERSION
-   ruby 2.5.0p0
+   ruby 2.3.3p222
 
 BUNDLED WITH
    1.16.1
